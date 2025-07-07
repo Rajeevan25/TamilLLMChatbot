@@ -1,0 +1,7 @@
+node_modules/
+.env
+.venv/
+chatbot-frontend/node_modules/
+backend/venv/
+model/venv/
+model/my_model/
